@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hi, I'm **Mohammed Sahil**, a passionate Cloud Engineer with a love for cloud computing and scalable solutions. I'm constantly learning, exploring new technologies, and working on impactful projects.
+Hey, I'm **Mohammed Sahil**, a passionate Cloud Engineer with a love for cloud computing and scalable solutions. I'm constantly learning, exploring new technologies, and working on impactful projects.
 
 ---
 
